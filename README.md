@@ -1,3 +1,3 @@
-# installing_istio
+# Installing_istio
 
 See the Wiki
